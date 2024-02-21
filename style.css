@@ -1,0 +1,35 @@
+.logoutbtn {
+    border-radius: 10px;
+    background-color: #8CE892;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+}
+  .sidenav{
+background-color: #8CE892;
+overflow-x: hidden;
+height: 100%;
+width: 0;
+position: fixed;
+z-index: 2000;
+top:0%;
+left:0%;
+transition: 0.5s;
+
+
+
+  }.sidenav a {
+    font-size: medium;
+    text-decoration: none;
+    color: black;
+    display: block;
+    transition: 0.3s;
+    padding: 5%;
+
+  }.sidenav a :hover{
+    background:#111;
+
+  }

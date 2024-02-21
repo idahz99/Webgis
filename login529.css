@@ -1,0 +1,171 @@
+.login529 {
+  background-color:#8CE892;
+  text-align: center;
+  }
+ 
+  .login529-text {
+    top: 105px;
+    left: 648px;
+    color: rgba(0, 0, 0, 1);
+    width: 306px;
+    height: auto;
+    font-size: 48px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700px;
+    line-height: 16px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .login529-text01 {
+    color: rgba(0, 0, 0, 1);
+    font-size: 48px;
+    text-align: center;
+    height: auto;
+    font-style: normal;
+    font-weight: 700px;
+       
+  }
+  .login529-text02 {
+    top: 156px;
+    left: 718px;
+    color: rgba(0, 0, 0, 1);
+    width: 165px;
+    height: auto;
+    
+    font-size: 48px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400px;
+    line-height: 16px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .login529-image {
+    top: 93px;
+    left: 577px;
+    width: 56px;
+    height: 44px;
+    
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .login529-text04 {
+    top: 305px;
+    left: 718px;
+    color: rgba(0, 0, 0, 1);
+    width: 275px;
+    height: auto;
+    position: absolute;
+    font-size: 48px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400px;
+    line-height: 16px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .login529-svg {
+    top: 242px;
+    left: 489px;
+    width: 554;
+    height: 590;
+    position: absolute;
+  }
+  .form{
+      padding: 10px;
+  }
+  .input{
+      width: 60%;
+      padding: 14px 20px;
+      margin: 8px 0;
+      border-radius: 4px;
+      cursor: auto;
+  }
+  .container{
+    text-align: center;
+    background-color: white;
+    width:400px ;
+    margin: auto;
+    border-radius: 10px;
+    }
+  .input[type=submit] {
+    width:40%;
+    background-color: #8CE892;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+  }
+  .Mapbutton{
+width: 143px;
+height: 20px;
+left: 1270px;
+top: 42px;
+border: 2px solid #000000;
+border-radius: 15px;
+cursor: pointer;
+  }
+ .cardbox{
+position: relative;
+width: 100%;
+padding: 20px;
+display: grid;
+grid-template-columns: repeat(4,1fr);
+grid-gap: 30px;
+}
+.cardbox .card{
+position: relative;
+background: var(--white);
+padding:30px;
+border-radius: 15px;
+display: flex;
+justify-content: space-between;
+box-shadow:0 7px 25px rgba(0, 0, 0, 0.08) ;
+} 
+.cardbox .card .number{
+position:relative;
+font-weight: 300;
+font-size:2.5em;
+color:#8CE892;
+
+}
+.cardbox .card .cardName{
+color: #000000;
+font-size: 400;
+margin-top: 5px;
+}
+.cardbox .card .icon{
+ font-size:3.5em;
+
+}
+.legend{
+  position: relative;
+  padding: 20px;
+  display: flex;
+  grid-template-columns: repeat(2,1fr);
+  grid-gap: 30px;
+  justify-content: center;
+}
+.legend .legendcard{
+  position: relative;
+padding:30px;
+background: var(--black);
+padding:30px;
+border-radius: 15px;
+display: flex;
+box-shadow:0 7px 25px rgba(0, 0, 0, 0.08) ;
+align-items: flex-start;
+flex-direction: column;
+float:right;
+align-items: center
+}  
+  
+    
